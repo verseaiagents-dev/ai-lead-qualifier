@@ -93,8 +93,4 @@ MIT License - feel free to use for your own projects.
 ## Author
 
 **Kadir Burak Durmazlar**
-- GitHub: [@ballonaiagency](https://github.com/ballonaiagency)
-
----
-
-Built with AI
+- GitHub: [@verseaiagents-dev](https://github.com/verseaiagents-dev)

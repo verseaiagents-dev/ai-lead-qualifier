@@ -350,8 +350,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-[var(--border)] py-8">
         <div className="max-w-7xl mx-auto px-4 text-center text-gray-500">
-          <p>Built with AI by <span className="text-blue-400">Kadir Burak Durmazlar</span></p>
-          <p className="text-sm mt-1">Powered by Claude AI</p>
+          <p>&copy; {new Date().getFullYear()} <span className="text-blue-400">Kadir Burak Durmazlar</span></p>
         </div>
       </footer>
     </main>
